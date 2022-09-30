@@ -120,3 +120,17 @@ document.getElementById("next").addEventListener("click", (event) => {
   images.push(images[0]);
   element_pics3.setAttribute("src", images.shift());
 });
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
