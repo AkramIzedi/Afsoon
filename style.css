@@ -27,7 +27,7 @@ body {
 
 .nav-link {
 }
-/* don't edit this */
+
 .jest-lite-report__status--pass {
   background: var(--color-pass);
 }
@@ -277,3 +277,10 @@ a:visited {
   display: inline-block;
   margin-left: 20px;
 }
+
+.button1 {
+  background-color: #73c6b6;
+   margin-left: 200px;
+  border-radius:10px;
+ border:5px solid #b8860b;
+  padding:20px 30px;
